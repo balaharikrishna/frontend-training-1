@@ -5,7 +5,9 @@ body {
   background-color: #05152F;
   font-family: Oswald;
 }
-
+.white {
+  color: white;
+}
 /* Navbar Media Queries: */
 .grid-containernavmanin {
   display: grid;
@@ -209,9 +211,6 @@ body {
   padding-left: 12%;
   padding-right: 12%;
 }
-.white {
-  color: white;
-}
 .rotate_image {
   -webkit-transform: rotate(45deg);
   -moz-transform: rotate(45deg);
@@ -347,9 +346,6 @@ body {
 .image3 {
   position: absolute;
   cursor: pointer;
-}
-.white {
-  color: white;
 }
 .adjust-line-height1 {
   font-size: 17px;
@@ -507,27 +503,16 @@ body {
   .grid-container3 {
     margin-top: 7%;
   }
-
-  .white {
-    color: white;
-  }
-
   .UpMatch {
     font-family: 'Oswald', sans-serif;
     font-size: 35px;
   }
-
 }
 
 @media only screen and (max-width: 450px) {
   .grid-container3 {
     margin-top: 7%;
   }
-
-  .white {
-    color: white;
-  }
-
   .UpMatch {
     font-size: 25px;
   }
