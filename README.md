@@ -9,7 +9,7 @@ Games,Live **Youtube Streams** and Current Winners.
 Available **Free Subscription** to News Letter to get daily Notifications.
 ### Link
 ```
-git clone git@github.com:balaharikrishna/frontend-training-1.git
+git clone https://github.com/balaharikrishna/frontend-training-1.git
 ```
 ### Contact Information
 Contact Information is provided in the Application and Joins us to get **Live Support**.
